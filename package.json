@@ -1,6 +1,6 @@
 {
   "name": "bansos-tia",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -23,5 +23,9 @@
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "postcss.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holycan201/bansos-tia.git"
+  }
 }
